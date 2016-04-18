@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.avro</groupId>
+  <artifactId>trevni-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.8.0.24p-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160418203548</lastUpdated>
+  </versioning>
+</metadata>
