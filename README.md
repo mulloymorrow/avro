@@ -1,4 +1,3 @@
-# avro
 ## Mirror of Apache Avro. 
 There is a fix in this snapshot that I wanted my maven project to depend on. 
 To depend on this maven artifact, add the following to your pom.xml:
