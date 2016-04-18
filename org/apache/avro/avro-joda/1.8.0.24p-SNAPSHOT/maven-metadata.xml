@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.avro</groupId>
+  <artifactId>avro-joda</artifactId>
+  <version>1.8.0.24p-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160418.203519</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160418203519</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8.0.24p-20160418.203519-1</value>
+        <updated>20160418203519</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
